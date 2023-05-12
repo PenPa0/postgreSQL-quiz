@@ -1,0 +1,1 @@
+CREATE TABLE hobbies ("id" INT PRIMARY KEY, "name" VARCHAR(50), "password" VARCHAR(50));
